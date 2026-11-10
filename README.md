@@ -1,6 +1,7 @@
 # Green Day: Rock Band for Windows
 
-<img width="485" height="273" alt="image" src="https://github.com/user-attachments/assets/86f162a3-68ec-4a43-9d05-a8414b88c38a" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/170c00c0-ed26-4d46-958d-55abc848d1c7" />
+
 
 **v0.2.0** is an unofficial port for 64-bit Windows 10 and 11 with a Direct3D 12-capable GPU. 
 ## Getting started
