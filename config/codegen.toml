@@ -1,0 +1,11 @@
+# Keep the PowerPC calling convention intact while reducing scratch-register traffic.
+ctr_as_local = true
+xer_as_local = true
+cr_as_local = true
+non_argument_as_local = false
+non_volatile_as_local = false
+reserved_as_local = false
+
+[functions]
+0x82323A78 = { name = "sub_82323A78" }
+0x826B4690 = { name = "sub_826B4690" }

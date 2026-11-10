@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Path": "charnames.zbm",
+      "Size": 258
+    },
+    {
+      "Path": "gen/main_xbox_0.ark",
+      "Size": 28232703
+    },
+    {
+      "Path": "gen/main_xbox_1.ark",
+      "Size": 853958
+    },
+    {
+      "Path": "gen/main_xbox_2.ark",
+      "Size": 26299554
+    },
+    {
+      "Path": "gen/main_xbox_3.ark",
+      "Size": 345437784
+    },
+    {
+      "Path": "gen/main_xbox_4.ark",
+      "Size": 1180103292
+    },
+    {
+      "Path": "gen/main_xbox_5.ark",
+      "Size": 324483800
+    },
+    {
+      "Path": "gen/main_xbox_6.ark",
+      "Size": 48723193
+    },
+    {
+      "Path": "gen/main_xbox_7.ark",
+      "Size": 243830977
+    },
+    {
+      "Path": "gen/main_xbox_8.ark",
+      "Size": 1300448034
+    },
+    {
+      "Path": "gen/main_xbox_9.ark",
+      "Size": 0
+    },
+    {
+      "Path": "gen/main_xbox.hdr",
+      "Size": 157962
+    }
+  ],
+  "XexSha256": "B778B0B18A3424F42AD3273A7808526A1556107B974861BDFF150964F9E66C3B"
+}

@@ -1,0 +1,10 @@
+[project]
+name = "greendayrockband"
+sdk_version = "0.10.0"
+game_root = "C:/Games/GreenDayRockBand"
+
+[entrypoint]
+file_path = "C:/Games/GreenDayRockBand/default.xex"
+out_directory_path = "generated/default"
+includes = ["config/codegen.toml", "config/pointers.toml"]
+
